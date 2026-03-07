@@ -1,0 +1,41 @@
+# Core MCP
+mcp>=1.0.0
+fastapi>=0.109.0
+uvicorn>=0.27.0
+
+# Database
+sqlalchemy>=2.0.0
+aiosqlite>=0.19.0
+
+# BGP Data (optional - pybgpstream requires C++ build tools)
+# pybgpstream>=2.0.0
+peeringdb>=2.14.0
+
+# Data Processing
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# HTTP & Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.1.0
+
+# Network
+ipaddress>=5.3.0
+maxminddb>=2.4.0
+
+# Async
+aiohttp>=3.9.0
+asyncio-throttle>=1.0.2
+
+# Notifications (optional)
+# telegram-send>=0.25
+# twilio>=8.11.0
+
+# Utilities
+python-dotenv>=1.0.0
+loguru>=0.7.0
+apscheduler>=3.10.0
+
+# Date/Time
+python-dateutil>=2.8.0
