@@ -10,7 +10,7 @@
               <UIcon name="i-heroicons-signal-alt" class="w-6 h-6 text-white" />
             </div>
             <div>
-              <h1 class="text-lg font-bold">B<span class="text-blue-500">radar</span></h1>
+              <h1 class="text-lg font-bold"><span class="text-green-500">BR</span><span class="text-black dark:text-white">RADAR</span></h1>
               <p class="text-xs text-gray-500 -mt-0.5">BGP Intelligence</p>
             </div>
           </NuxtLink>
@@ -69,7 +69,7 @@
     <!-- Footer -->
     <footer class="border-t border-gray-800 py-6 mt-12">
       <div class="container mx-auto px-4 text-center text-gray-500 text-sm">
-        <p>© 2024 Armazem Radar - Inteligência de Rede Brasileira</p>
+        <p>© 2024 Bradar Network - Inteligência de Rede Brasileira</p>
         <p class="text-xs mt-1">85.518 ASNs Globais | 9.088 ASNs Brasil</p>
       </div>
     </footer>
